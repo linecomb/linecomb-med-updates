@@ -1,9 +1,0 @@
-{
-  "app": "LineCoMB MED",
-  "version": "1.0.0",
-  "build": 1,
-  "url": "",
-  "sha256": "",
-  "mandatory": false,
-  "notes": "Primera versió amb sistema d'actualitzacions preparat"
-}
